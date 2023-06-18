@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    height: 4vw;
+    display: flex;
+    align-items: center;
+}
+
+nav > ul > li{
+    list-style: none;
+    padding-left: 3vw;
+    font-size: 1.5vw;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.container{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.game__container{
+    display: grid;
+    grid-template-columns: repeat(3,10vw);
+    grid-template-rows: repeat(3,10vw);
+}
+
+.box{
+    border: 0.001vw solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.box__text{
+    font-size: 10vw;
+}
+
+
+.game__info{
+    margin-top: 2vw;
+}
+
+
+
+

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h2{
+    text-align: center;
+    margin-top: 4vh;
+}
+
+
+.image__section{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 20vmin;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 20vw;
+    height: 40vh;
+    object-fit: cover;
+    border-radius: 2vw;
+}
+
+
+
+
+.Btn{
+    white-space: nowrap;
+    padding: 1vw;
+    border-radius: 2vw;
+    background-color: aqua;
+    margin: 1vw;
+}
+
+
+.image_show{
+    width: 2vw;
+    height: 2vw;
+}

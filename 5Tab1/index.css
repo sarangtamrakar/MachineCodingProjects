@@ -1,0 +1,21 @@
+
+
+.active_btn{
+    border: 1px solid blue;
+    color : blue;
+}
+
+
+.hide_content{
+    display: none;
+}
+
+.show_content{
+    display: block;
+}
+
+
+
+
+
+

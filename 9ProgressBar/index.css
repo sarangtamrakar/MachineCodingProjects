@@ -1,0 +1,18 @@
+
+
+#blank__bar{
+    border: 1px solid red;
+    background-color: whitesmoke;
+    width: 100%;
+}
+
+#filled__bar{
+    border: 1px solid black;
+    width: 1%;
+    background-color: red;
+}
+
+
+
+
+
